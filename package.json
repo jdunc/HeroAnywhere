@@ -1,0 +1,25 @@
+{
+  "name": "hero-anywhere",
+  "version": "1.0.0",
+  "description": "Platform for Connecting Disaster Relief Volunteers with Incident Commanders",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdunc/HeroAnywhere.git"
+  },
+  "author": "Jordan Duncan, Charles Harding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdunc/HeroAnywhere/issues"
+  },
+  "homepage": "https://github.com/jdunc/HeroAnywhere#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "google-auth-library": "^0.10.0",
+    "path": "^0.12.7"
+  }
+}
